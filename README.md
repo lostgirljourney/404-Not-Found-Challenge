@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://">
+    <a href="https://404-not-found-page-solution.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/lostgirljourney/404-Not-Found-Challenge">
+    <a href="https://github.com/lostgirljourney/404-Not-Found-Challenge" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
   </h3>
@@ -51,6 +51,9 @@ Challenge was to create a 404 not found page following the design given in websi
 
 - HTML
 - CSS
+- Netlify 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5b010eb-f820-4908-b86e-77ba2669c953/deploy-status)](https://404-not-found-page-solution.netlify.app/)
 
 ## Features
 
