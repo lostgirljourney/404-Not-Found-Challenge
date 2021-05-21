@@ -109,6 +109,11 @@ span {
   top: 250px;
 }
 
+a {
+  text-decoration: none;
+  color: #bdbdbd;
+}
+
 @media only screen and (min-width: 1100px) and (max-width: 1300px) {
   #head-contain {
     position: absolute;
