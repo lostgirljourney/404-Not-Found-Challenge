@@ -71,7 +71,6 @@ img {
 
 button {
   background-color: #4f4f4f;
-
   position: absolute;
   width: 216px;
   height: 68px;
@@ -79,6 +78,7 @@ button {
   top: 517px;
   border: none;
   border-radius: 0;
+  cursor: pointer;
 }
 
 span {
