@@ -1,0 +1,62 @@
+<!-- Please update value in the {}  -->
+
+<h1 align="center">404 Not Found</h1>
+
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/lostgirljourney/404-Not-Found-Challenge">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+<p align = "center">
+  <b>Laptop View</b>
+  <br>
+  <img src = "assets/Screenshot.jpeg" width = "75%">
+  <br><br>
+  <b>Mobile View</b>
+  <br>
+  <img src = "assets/Screenshot-mobile.jpeg" width = "50%">
+</p>
+
+Challenge was to create a 404 not found page following the design given in website. The page should be responsive.
+
+### Built With
+
+- HTML
+- CSS
+
+## Features
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
+## Contact
+
+- GitHub: [@lostgirljourney](https://github.com/lostgirljourney)
+- Twitter: [@melophilecoder](https://twitter.com/melophilecoder)
