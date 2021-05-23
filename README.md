@@ -51,7 +51,7 @@ Challenge was to create a 404 not found page following the design given in websi
 
 - HTML
 - CSS
-- Netlify 
+- Netlify
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c5b010eb-f820-4908-b86e-77ba2669c953/deploy-status)](https://404-not-found-page-solution.netlify.app/)
 
