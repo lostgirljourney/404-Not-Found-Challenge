@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">404 Not Found</h1>
 
 <div align="center">
@@ -22,16 +20,12 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-
-<!-- OVERVIEW -->
 
 ## Overview
 
